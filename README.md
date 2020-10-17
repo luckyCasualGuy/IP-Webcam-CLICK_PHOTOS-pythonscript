@@ -11,7 +11,8 @@ Set the app settings and start the server from mobile app
 `python camera.py -d Save`
 Keep this script running in background
 
-### Go to the link specified in your IP Webcam mobile app after starting the server there  
+### Go to the link specified in your IP Webcam mobile app after starting the server there:  
+[HOME PAGE](https://raw.githubusercontent.com/luckyCasualGuy/IP-Webcam-CLICK_PHOTOS-pythonscript/main/imgs/IPWebcamHome.jpg)
 
 ### Press SPACE to take photos:
 Photos will be saved in the foler specified after `-d`
