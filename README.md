@@ -16,7 +16,7 @@ Keep this script running in background
 
 ### Go to the link specified in your IP Webcam mobile app after starting the server there: 
 #### This is where you will find link:
-![Where](https://raw.githubusercontent.com/luckyCasualGuy/IP-Webcam-CLICK_PHOTOS-pythonscript/main/imgs/IPWhere.jpg)
+![Where](https://raw.githubusercontent.com/luckyCasualGuy/IP-Webcam-CLICK_PHOTOS-pythonscript/main/imgs/IPwhere.jpg)
 
 #### Open it in your browser.
 ![HOME PAGE](https://raw.githubusercontent.com/luckyCasualGuy/IP-Webcam-CLICK_PHOTOS-pythonscript/main/imgs/IPWebcamHome.jpg)
