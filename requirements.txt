@@ -1,0 +1,3 @@
+numpy==1.18.5
+opencv-contrib-python==4.3.0.36
+pynput==1.7.1
