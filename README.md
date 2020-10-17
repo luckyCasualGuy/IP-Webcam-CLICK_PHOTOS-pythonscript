@@ -4,6 +4,16 @@ To store photos from your IP Webcam mobile feed on your PC: Used for collecting 
 ### Install requirements.txt:  
 `pip install -r requirement.txt`  
 
-### Download IP Webcam app on your mobile phone:  
+### Download IP Webcam app on your mobile phone:
+Set the app settings and start the server from mobile app
 
-### Set the app settings and start the server from mobile app
+### Start the python script:  
+`python camera.py -d Save`
+Keep this script running in background
+
+### Go to the link specified in your IP Webcam mobile app after starting the server there  
+
+### Press SPACE to take photos:
+Photos will be saved in the foler specified after `-d`
+
+### Press EXC to quite the script:
